@@ -16,7 +16,7 @@
     "cookie-parser": "^1.4.5",
     "cross-env": "^7.0.2",
     "element-ui": "^2.13.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-jwt": "^5.3.3",
     "express-session": "^1.17.1",
     "highlight.js": "^10.1.1",
